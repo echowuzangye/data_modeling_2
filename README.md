@@ -1,4 +1,4 @@
-# data_modeling_2
+# data_modeling_2 with Apache Cassandra
 
 ### Datasets
 For this project, you'll be working with one dataset: event_data. 
